@@ -1,5 +1,3 @@
-Here is a GitHub README.md template tailored for your project, PokerEye: AI-Powered Poker Hand Recognition System.
-
 PokerEye: AI-Powered Poker Hand Recognition System
 
 PokerEye is an innovative solution that leverages AI and computer vision to recognize poker hands in real-time. Designed to enhance poker gameplay, this system automates hand identification, improves accuracy, and reduces mental fatigue for players, allowing them to focus on strategy.
