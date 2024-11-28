@@ -82,7 +82,7 @@ This project is licensed under the MIT License.
 
 📧 Contact
 
-	•	Website: [[aydie.in](https://aydie.in/)](https://aydie.in)
+	•	Website: aydie.in
 	•	Email: business@aydie.in
 
 Feel free to reach out with suggestions or contributions!
