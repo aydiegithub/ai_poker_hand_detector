@@ -47,7 +47,7 @@ Setup Instructions
 
 	1.	Clone the Repository:
 
-git clone https://github.com/aydiegithub/pokereye.git
+git clone [https://github.com/aydiegithub/pokereye.git](https://github.com/aydiegithub/ai_poker_hand_detector/)
 
 
 	2.	Install Dependencies:
